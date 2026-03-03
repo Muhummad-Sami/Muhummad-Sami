@@ -1,6 +1,6 @@
 <p align="center">
   <h1><b>M SAMI ABID</b></h1>
-  <p>A proactive <b>Software Engineering student & Web Developer</b> from <b>PAKISTAN 🇵🇰</b></p>
+  <p>I'm a proactive <b>Software Engineering student & Web Developer</b> from <b>PAKISTAN 🇵🇰</b></p>
 </p>
 
 ---
